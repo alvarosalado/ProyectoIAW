@@ -1,9 +1,11 @@
 ﻿Álvaro Salado Palomares	2ºASIR	IAW
 
-![](Aspose.Words.2badb1fc-d7aa-42d8-9136-9c18d4a4c086.001.jpeg)![](Aspose.Words.2badb1fc-d7aa-42d8-9136-9c18d4a4c086.002.jpeg)
+![](img/Aspose.Words.2badb1fc-d7aa-42d8-9136-9c18d4a4c086.001.jpeg)
+
+![](img/Aspose.Words.2badb1fc-d7aa-42d8-9136-9c18d4a4c086.002.jpeg)
 
 ES Gran Capitán
-Departamento de Informática**
+Departamento de Informática
 
 Ciclo Formativo de Grado Superior de
 Administración de Sistemas Informáticos
@@ -98,11 +100,11 @@ Hemos creado nuestra propia VPC que alojara a las instancias ec2 y RDS para que 
 
 En la siguiente captura podemos ver como hemos creado ,as subredes y nos proporciona un mapa de las redes que tendrán salida a internet (publicas) y las redes que no podrán salir a internet (privadas). Cada subred tiene una tabla de enrutamiento dependiendo de si son publicas o privadas
 
-![](Aspose.Words.2badb1fc-d7aa-42d8-9136-9c18d4a4c086.003.png)
+![](img/Aspose.Words.2badb1fc-d7aa-42d8-9136-9c18d4a4c086.003.png)
 
 En nuestra instancia RDS añadiremos las subredes.
 
-![](Aspose.Words.2badb1fc-d7aa-42d8-9136-9c18d4a4c086.004.png)
+![](img/Aspose.Words.2badb1fc-d7aa-42d8-9136-9c18d4a4c086.004.png)
 
 # **6.- Implantación**
 La implementación que hay que hacer para la solución de este  proyecto  seria crear un escenario de AWS en el que alojaremos un servidor web y un servidor de base de datos para que nuestra pagina web vaya correctamente. Durante este proceso debemos tener nuestro escenario securizado para no tener vulnerabilidades.
@@ -139,11 +141,11 @@ Como estamos empezando y somos una empresa pequeña, solo nos bastará con un us
 ## ***7.4.- Presupuesto***
 Este será el presupuesto por utilizar una instancia EC2.
 
-![](Aspose.Words.2badb1fc-d7aa-42d8-9136-9c18d4a4c086.005.png)
+![](img/Aspose.Words.2badb1fc-d7aa-42d8-9136-9c18d4a4c086.005.png)
 
 Este es el presupuesto previsto que tenemos para este mes.
 
-![](Aspose.Words.2badb1fc-d7aa-42d8-9136-9c18d4a4c086.006.png)
+![](img/Aspose.Words.2badb1fc-d7aa-42d8-9136-9c18d4a4c086.006.png)
 
 # **8.- Conclusiones**
 ## ***8.1.- Grado de consecución de objetivos***
@@ -175,5 +177,5 @@ Por ejemplo, planos, especificaciones de los programas que se usen...
 - WinSCP
 - MySQL Worbench
 - Google Photos
-2
+
 
